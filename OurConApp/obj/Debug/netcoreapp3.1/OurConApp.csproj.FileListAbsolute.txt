@@ -1,0 +1,13 @@
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\bin\Debug\netcoreapp3.1\OurConApp.exe
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\bin\Debug\netcoreapp3.1\OurConApp.deps.json
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\bin\Debug\netcoreapp3.1\OurConApp.runtimeconfig.json
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\bin\Debug\netcoreapp3.1\OurConApp.runtimeconfig.dev.json
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\bin\Debug\netcoreapp3.1\OurConApp.dll
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\bin\Debug\netcoreapp3.1\OurConApp.pdb
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\obj\Debug\netcoreapp3.1\OurConApp.csprojAssemblyReference.cache
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\obj\Debug\netcoreapp3.1\OurConApp.AssemblyInfoInputs.cache
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\obj\Debug\netcoreapp3.1\OurConApp.AssemblyInfo.cs
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\obj\Debug\netcoreapp3.1\OurConApp.csproj.CoreCompileInputs.cache
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\obj\Debug\netcoreapp3.1\OurConApp.dll
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\obj\Debug\netcoreapp3.1\OurConApp.pdb
+D:\CTS-ADM005\Day-76\OurConApp\OurConApp\obj\Debug\netcoreapp3.1\OurConApp.genruntimeconfig.cache
